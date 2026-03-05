@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.a0992f3a.js",
-    "index.html": "/index.html",
-    "main.a0992f3a.js.map": "/static/js/main.a0992f3a.js.map"
+    "main.js": "/Freepik-AI-Image-Prompt-Engineer/static/js/main.a0992f3a.js",
+    "index.html": "/Freepik-AI-Image-Prompt-Engineer/index.html",
+    "main.a0992f3a.js.map": "/Freepik-AI-Image-Prompt-Engineer/static/js/main.a0992f3a.js.map"
   },
   "entrypoints": [
     "static/js/main.a0992f3a.js"
